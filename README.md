@@ -7,7 +7,7 @@ Dataset
 
  The purpose of this project is to analyze which scenario drives the most number of game user rentention. Retention is measured by whether the user continues to play games or uninstall/inactive.
 
-There are gates which forces players to wait a certain time or make in app purchases to move on. Scenario 1 has the first gate appear at level 30 while scenario 2 has first gate appear much later at level 40. The hypothesis is that the gate at level 30 will lead to worse retention rate. A/B test will allow us to test the two scenarios using random groupings.
+There are gates which forces players to wait a certain time or make in app purchases to move on. Scenario 1 has the first gate appear at level 30 while scenario 2 has first gate appear much later at level 40. The hypothesis is that the gate at level 30 will lead to worse retention rate. A/B test will allow us to test the two scenarios using random groupings. It will be even sample
 
  We will first analyze the dataset before performing a A/B testing
  
